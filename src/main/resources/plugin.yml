@@ -1,0 +1,4 @@
+name: moon
+version: '${project.version}'
+main: com.naka.moon.Moon
+api-version: '1.20'
